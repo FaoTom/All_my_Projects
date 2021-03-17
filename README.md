@@ -8,3 +8,6 @@ This is a course of the first semester at Physics of Data. It consists on theory
 
 ### Laboratory of Computational Physics
 This is an annual course at Phyisics of Data. It is divided in two parts (module A and module B) for the two semesters. In module A, together with other three smart colleagues, we developed a muon source induced by a positron-electron scattering and you can find the full notebook in the folder. Furthermore, in the folder _Exercises_ there are all the weekly assignemnts we were asked to solve.
+
+### Betty the robot
+During the summer, when I was 16, I tried to build from scratch a kind of robot vacuum cleaner with Arduino. My grandfather helped me with the iron skeleton, and te result was a machine able to avoid obsatcles.
