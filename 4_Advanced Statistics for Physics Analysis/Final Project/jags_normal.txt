@@ -1,0 +1,11 @@
+model {
+    # Likelihood:
+    for( i in 1 : N ) {
+	  y[i] ~ dnorm( rate , tau) 
+    }
+    # Prior:
+    rate ~ dexp( 0.00001 )
+	tau ~ dexp( 0.00001 )
+	
+	
+}

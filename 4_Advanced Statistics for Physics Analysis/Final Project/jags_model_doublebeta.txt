@@ -1,0 +1,20 @@
+model {
+# data likelihood
+
+
+for (i in 1:length(X)) {
+#dist = (dbeta(a1, b1) + dbeta(a2, b2))
+
+d1[i] ~ 0.5*dbeta(a1, b1) T(0.001,0.999);
+d2[i] ~ 0.5*dbeta(a2, b2) T(0.001,0.999);
+X[i] ~ dsum(d1[i] , d2[i]);
+}
+# a uniform prior for p
+a1 ~ dnorm(0.2925, 0.1);
+b1 ~ dnorm(0.3575, 0.1);
+a2 ~ dnorm(0.82875, 0.1);
+b2 ~ dnorm(0.44625, 0.1);
+ 
+# Predicted data , given p
+#y ~ dbeta(a1, b1) + dbeta(a2, b2);
+}

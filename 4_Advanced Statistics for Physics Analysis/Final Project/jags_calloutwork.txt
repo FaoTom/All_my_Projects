@@ -1,0 +1,10 @@
+model {
+    # Likelihood:
+    for( i in 1 : N ) {
+	  y[i] ~ dexp( rate )
+    }
+    # Prior:
+    rate ~ dexp( 0.001 )
+	
+	
+}
