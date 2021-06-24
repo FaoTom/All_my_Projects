@@ -15,5 +15,9 @@ In module A, together with other three smart colleagues, we developed a muon sou
 #### modB
 In module B, together with other three smart but different colleagues we were asked to investigate machine learning algorithms in some weekly assignments. In particular, in the first exercise we studied different gradient descent and how parameters affects their run towards the global minimum of a given function. Then, we focused on CNN were we also took a bronze medal in a weekly race among the lab groups subscribed to the course. This race focused on designing and training a custom CNN architecture and the team who has got the highest accuracy on an unknown would have win.
 
+### Advanced Statistics for Physics Analysis
+As the title, this is a course on advanced statistics method. The exam is about a written test, seven assignments throughout the course and a final project in R. Me and other two guys had the pleasure to work on the customer service calls dataset of UNOX s.p.a., and with advanced method such as Markok Chain Monte Carlo and JAGS sampling we have been able to carry out some useful insights for the company, and to pass successfully the final examination.
+
+
 ### Betty the robot
 During the summer, when I was 16, I tried to build from scratch a kind of robot vacuum cleaner with Arduino. My grandfather helped me with the iron skeleton, and the result was a machine able to see and avoid obsatcles.
