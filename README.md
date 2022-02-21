@@ -31,6 +31,11 @@ This is an annual course at Phyisics of Data. It is divided in two parts (module
 ## Neural Networks and Deep Learning 🧠
 Here I had the possiblity to learn techniques regarding Deep Learning, under a Supervised, Unsupervised and Reinforced Learning frameworks. I uploaded the code used and the reports for all the tree assignment respectively.
 
+---
+
+## Quantum Information and Computing 🔮
+
+
 
 ## Betty the robot 🤖
 During the summer, when I was 16, I tried to build from scratch a kind of robot vacuum cleaner with Arduino. My grandfather helped me with the iron skeleton, and the result was a machine able to see and avoid obsatcles.
