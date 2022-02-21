@@ -1,6 +1,4 @@
-# All_Projects 💻
-
-Welcome to this repo! Here I want to collect all the projects I have been working on during my studies and not.
+Welcome to this repo, where I collect all the projects I have been working on during my studies and not
 
 ---
 
@@ -44,6 +42,7 @@ Here I had the possiblity to learn techniques regarding Deep Learning, under a S
 
 ## Quantum Information and Computing 🔮
 
+---
 
 
 ## Betty the robot 🤖
