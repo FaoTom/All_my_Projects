@@ -21,7 +21,7 @@ As a final project we developed some code along with the Quantum Theory Group, t
 ---
 
 ## Advanced Statistics for Physics Analysis 📊
-As the title, this is a course on advanced statistics methods. The exam is about a written test, seven assignments throughout the course and a final project in R. Me and other two guys had the pleasure to work on the customer service calls dataset of UNOX s.p.a., and with advanced method such as Markok Chain Monte Carlo and JAGS sampling we have been able to carry out some useful insights for the company, and to pass successfully the final examination.
+As the title, this is a course on advanced statistics methods. The exam is about a written test, seven assignments throughout the course and a final project in R. Me and other two guys had the pleasure to work on the customer service calls dataset of UNOX s.p.a., and with advanced method such as Markov Chain Monte Carlo and JAGS sampling we have been able to carry out some useful insights for the company, and to pass successfully the final examination.
 
 ---
 
