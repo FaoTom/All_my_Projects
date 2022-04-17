@@ -29,10 +29,10 @@ As the title, this is a course on advanced statistics methods. The exam is about
 This is an annual course at Phyisics of Data. It is divided in two parts (module A and module B) for the two semesters. 
 
 ### modA
-
+This first part focused on programming FPGAs. The final project consists on the development of a FIR filter in VHDL.
 
 ### modB
-
+In the second half instead, three professors presented us the state-of-the-art of big data analysis. 
 ---
 
 ## Neural Networks and Deep Learning 🧠
