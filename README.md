@@ -1,9 +1,9 @@
-Welcome to this repo, where I collect all the projects I have been working on during my studies and not
+Welcome to this repo! Here I collect some of the projects I have been working mainly during my studies
 
 ---
 
 ## Machine Learning 🏎
-This is a course of the first semester at Physics of Data. It consists on theory and application of some basic methods in ML such as Support Vector Machines, Linear Regression and simple Neural Network structures. Here you can find a pdf file with all the theory that I wrote with one colleague and the assignments that we were supposed to deliver during the lessons.
+A course of the first semester at Physics of Data. It consists on theory and application of some basic methods in ML such as Support Vector Machines, Linear Regression and simple Neural Network structures. Here you can find a pdf file with all the theory that I wrote with one colleague and the assignments that we were supposed to deliver during the lessons.
 
 ---
 
