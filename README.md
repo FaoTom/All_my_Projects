@@ -32,7 +32,8 @@ This is an annual course at Phyisics of Data. It is divided in two parts (module
 This first part focused on programming FPGAs. The final project consists on the development of a FIR filter in VHDL.
 
 ### modB
-In the second half instead, three professors presented us the state-of-the-art of big data analysis. 
+In the second half instead, three professors presented us the state-of-the-art of big data analysis. We worked with Apache Spark, Apache Kafka
+
 ---
 
 ## Neural Networks and Deep Learning 🧠
