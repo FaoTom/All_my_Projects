@@ -3,7 +3,7 @@ Welcome to this repo! Here I collect some of the projects I have been working ma
 ---
 
 ## Machine Learning 🏎
-A course of the first semester at Physics of Data. It consists on theory and application of some basic methods in ML such as Support Vector Machines, Linear Regression and simple Neural Network structures. Here you can find a pdf file with all the theory that I wrote with one colleague and the assignments that we were supposed to deliver during the lessons.
+A course of the first semester at Physics of Data. It consists on theory and application of some basic methods in ML such as Support Vector Machines, Linear Regression and simple Neural Network structures. Here you can find the assignments I delivered for the final evaluation.
 
 ---
 
@@ -11,12 +11,12 @@ A course of the first semester at Physics of Data. It consists on theory and app
 This is an annual course at Phyisics of Data. It is divided in two parts (module A and module B) for the two semesters. 
 
 ### modA
-In module A, together with other three smart colleagues, we developed a muon source induced by a positron-electron scattering and you can find the full notebook in the folder. Furthermore, in the folder _Exercises_ there are all the simple weekly assignments we were asked to solve.
+In module A, together with other three colleagues, we developed a muon source induced by a positron-electron scattering and you can find the full notebook in the folder. Furthermore, in the folder _Exercises_ there are all the weekly assignments we were asked to solve.
 
 ### modB
-In module B, together with other three smart but different colleagues we were asked to investigate machine learning algorithms in some weekly assignments. In particular, in the first exercise we studied different gradient descent and how parameters affects their run towards the global minimum of a given function. Then, we focused on CNN were we also took a bronze medal in a weekly race among the lab groups subscribed to the course. This race focused on designing and training a custom CNN architecture and the team who has got the highest accuracy on an unknown would have win.
+In module B, together with other three different colleagues we were asked to investigate machine learning algorithms from a Physical point of view. In particular, in the first exercise we studied different gradient descent and how parameters affects their run towards the global minimum of a given function. Then, we focused on CNN were we also took a bronze medal in a weekly race among the lab groups subscribed to the course. This race focused on designing and training a custom CNN architecture and the team who has got the highest accuracy on an unknown would have win.
 
-As a final project we developed some code along with the Quantum Theory Group, that reproduces the results of a famous paper on Neural Quantum States for the Transverse Field Ising model.
+As a final project we developed some code along with the Quantum Theory Group, that reproduces the results of a [famous paper](https://www.science.org/doi/10.1126/science.aag2302) on Neural Quantum States for the Transverse Field Ising model.
 
 ---
 
