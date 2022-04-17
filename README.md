@@ -26,18 +26,19 @@ As the title, this is a course on advanced statistics methods. The exam is about
 ---
 
 ## Management and Analysis of Physics Datasets 💾
-This is an annual course at Phyisics of Data. It is divided in two parts (module A and module B) for the two semesters. 
+This is an annual course at Phyisics of Data. It is divided in two parts (module A and module B) for the two semesters. The idea behind this course is that the first module is about data gathering, and the second one about management and processing.
 
 ### modA
 This first part focused on programming FPGAs. The final project consists on the development of a FIR filter in VHDL.
 
 ### modB
-In the second half instead, three professors presented us the state-of-the-art of big data analysis. We worked with Apache Spark, Apache Kafka
+For the data management part, we did some hands-on work on storage models, reliability, availability, authentication, authorization, file systems and cloud storage.
+For the data processing instead, three professors presented us the state-of-the-art of big data analysis. We worked with Apache Spark, Apache Kafka and DAsk. The final project concerned the realization of a streaming processing of cosmic rays using Drift Tubes detectors, using Apache Kafka.
 
 ---
 
 ## Neural Networks and Deep Learning 🧠
-Here I had the possiblity to learn techniques regarding Deep Learning, under a Supervised, Unsupervised and Reinforced Learning frameworks. I uploaded the code used and the reports for all the tree assignment respectively.
+Here I had the possiblity to learn advanced techniques regarding Deep Learning, in a Supervised, Unsupervised and Reinforced Learning framework. I uploaded the code used and the reports for all the tree assignment respectively.
 
 ---
 
