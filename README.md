@@ -43,7 +43,7 @@ Here I had the possiblity to learn advanced techniques regarding Deep Learning, 
 ---
 
 ## Quantum Information and Computing 🔮
-This course consists of an introduction to computational quantum physics and tensor network methods, one of the most versatile simulation approaches exploited in quantum science. It provided a hands-on introduction to these methods. In the folder there are all the weekly assignment and the final project.
+This course consists of an introduction to computational quantum physics and tensor network methods, one of the most versatile simulation approaches exploited in quantum science. It provided a hands-on introduction to these methods. In the folder, all the weekly assignments are reported, together with the final project that has also been presented at a Quantum Week in Strasburg in April 2022.
 
 ---
 
